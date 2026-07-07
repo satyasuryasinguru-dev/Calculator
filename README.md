@@ -4,10 +4,7 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ## 📸 Preview
 
-<img width="500" alt="Calculator Screenshot" src="https://via.placeholder.com/500x350?text=Add+Calculator+Screenshot+Here">
-
-> Replace the image above with a screenshot of your calculator.
-
+![Calculator Screenshot](images/calculator.png)
 ---
 
 ## ✨ Features
